@@ -1,6 +1,6 @@
-# AI-Nutrition Diet Helper
+# Nutrition Diet Helper
 面向大众的膳食营养智能分析网页，用户输入自己的饮食内容、身体基础数据、减脂/增肌目标，由AI估算热量、碳水、蛋白、脂肪，生成饮食改善建议。
-  <!DOCTYPE html>
+
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
